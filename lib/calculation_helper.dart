@@ -1,6 +1,7 @@
 class CalculationHelper {
   double num1 = 0;
   double num2 = 0;
+  int dias = 0;
 
   String result = '';
   String finalResult = '';
